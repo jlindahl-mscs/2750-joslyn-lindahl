@@ -1,0 +1,15 @@
+C:\Users\Josly\Desktop\2750 UML Modeling and Iterative Process\VSsolutions\2750Unit3BStudentInfo-master\StudentInfo3B\bin\Debug\StudentInfo3B.exe.config
+C:\Users\Josly\Desktop\2750 UML Modeling and Iterative Process\VSsolutions\2750Unit3BStudentInfo-master\StudentInfo3B\bin\Debug\StudentInfo3B.exe
+C:\Users\Josly\Desktop\2750 UML Modeling and Iterative Process\VSsolutions\2750Unit3BStudentInfo-master\StudentInfo3B\bin\Debug\StudentInfo3B.pdb
+C:\Users\Josly\Desktop\2750 UML Modeling and Iterative Process\VSsolutions\2750Unit3BStudentInfo-master\StudentInfo3B\bin\Debug\EntityFramework.dll
+C:\Users\Josly\Desktop\2750 UML Modeling and Iterative Process\VSsolutions\2750Unit3BStudentInfo-master\StudentInfo3B\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Josly\Desktop\2750 UML Modeling and Iterative Process\VSsolutions\2750Unit3BStudentInfo-master\StudentInfo3B\bin\Debug\EntityFramework.xml
+C:\Users\Josly\Desktop\2750 UML Modeling and Iterative Process\VSsolutions\2750Unit3BStudentInfo-master\StudentInfo3B\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Josly\Desktop\2750 UML Modeling and Iterative Process\VSsolutions\2750Unit3BStudentInfo-master\StudentInfo3B\obj\Debug\StudentInfo3B.csprojAssemblyReference.cache
+C:\Users\Josly\Desktop\2750 UML Modeling and Iterative Process\VSsolutions\2750Unit3BStudentInfo-master\StudentInfo3B\obj\Debug\StudentInfo3B.Form1.resources
+C:\Users\Josly\Desktop\2750 UML Modeling and Iterative Process\VSsolutions\2750Unit3BStudentInfo-master\StudentInfo3B\obj\Debug\StudentInfo3B.Properties.Resources.resources
+C:\Users\Josly\Desktop\2750 UML Modeling and Iterative Process\VSsolutions\2750Unit3BStudentInfo-master\StudentInfo3B\obj\Debug\StudentInfo3B.csproj.GenerateResource.cache
+C:\Users\Josly\Desktop\2750 UML Modeling and Iterative Process\VSsolutions\2750Unit3BStudentInfo-master\StudentInfo3B\obj\Debug\StudentInfo3B.csproj.CoreCompileInputs.cache
+C:\Users\Josly\Desktop\2750 UML Modeling and Iterative Process\VSsolutions\2750Unit3BStudentInfo-master\StudentInfo3B\obj\Debug\StudentInfo3B.csproj.CopyComplete
+C:\Users\Josly\Desktop\2750 UML Modeling and Iterative Process\VSsolutions\2750Unit3BStudentInfo-master\StudentInfo3B\obj\Debug\StudentInfo3B.exe
+C:\Users\Josly\Desktop\2750 UML Modeling and Iterative Process\VSsolutions\2750Unit3BStudentInfo-master\StudentInfo3B\obj\Debug\StudentInfo3B.pdb
